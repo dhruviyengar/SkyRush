@@ -1,0 +1,6 @@
+name: SkyRush
+version: '${project.version}'
+main: me.secretagent.skyrush.SkyRush
+api-version: 1.18
+depend:
+  - SlimeWorldManager
